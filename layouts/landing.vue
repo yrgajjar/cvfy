@@ -89,7 +89,8 @@ useHead({
           </LandingLink>
         </section> -->
         <section class="flex gap-fl-xs">
-          <LandingLink
+         <!-- Disable Githu -->
+       <1--   <LandingLink
             :to="GITHUB"
             icon
           >
@@ -103,7 +104,7 @@ useHead({
                 fill="currentColor"
               />
             </svg>
-          </LandingLink>
+          </LandingLink> -->
           <LandingLangSwitch />
           <LandingLink
             :to="localePath('create')"
