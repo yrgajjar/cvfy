@@ -44,14 +44,14 @@ definePageMeta({
     </div>
     <LandingHeroImage />
     <div class="text-xs font-light">
-      Made with ♥️ by
+      Copyright By
       <LandingLink
         class="underline"
-        to="https://github.com/claudiabdm"
+        to="https://www.yags.in"
         external
       >
         <span class="text-violet-800">
-          claudiabdm
+          Yags.in
         </span>
       </LandingLink>
     </div>
