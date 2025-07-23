@@ -90,7 +90,7 @@ useHead({
         </section> -->
         <section class="flex gap-fl-xs">
          <!-- Disable Githu -->
-       <1--   <LandingLink
+       <!--   <LandingLink
             :to="GITHUB"
             icon
           >
