@@ -9,7 +9,7 @@ export default defineNuxtConfig({
       // eslint-disable-next-line node/prefer-global/process
       process.env.NODE_ENV === 'dev'
         ? 'http://localhost:3000'
-        : 'https://www.cvfy.xyz',
+        : 'https://cv.yags.in',
   },
 
   imports: {
@@ -24,7 +24,7 @@ export default defineNuxtConfig({
         { name: 'viewport', content: 'width=device-width, initial-scale=1' },
         {
           name: 'google-site-verification',
-          content: 'CGbgWpLEg4fyBPWujKEYS3rrwZR4mMU7XfsDEGArchg',
+          content: '',
         },
       ],
     },
@@ -142,8 +142,8 @@ export default defineNuxtConfig({
       config: true,
     },
     manifest: {
-      name: 'Cvfy',
-      short_name: 'CvFy',
+      name: 'Yags CV',
+      short_name: 'YCV',
       lang: 'en',
       scope: '/',
       display: 'standalone',
