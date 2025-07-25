@@ -32,7 +32,7 @@ useHead({
     },
     {
       name: 'author',
-      content: 'claudiabdm',
+      content: 'yrgajjar',
     },
     {
       property: 'og:image',
@@ -40,7 +40,7 @@ useHead({
     },
     {
       property: 'og:author',
-      content: 'Claudia Benito',
+      content: 'Yags',
     },
     {
       property: 'og:title',
