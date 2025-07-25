@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { useCvState } from '~/data/useCvState'
 
-const CVFY_IMAGE = 'https://cvfy.xyz/CvFy-no-border.png'
+const CVFY_IMAGE = 'https://www.yags.in/web/image/3393-ff486a32/YagsCV.png'
 
 const { setUpCvSettings } = useCvState()
 const route = useRoute()
@@ -52,7 +52,7 @@ useHead({
     },
     {
       name: 'twitter:creator',
-      content: '@claudiabdm',
+      content: '@yrgajjar',
     },
     {
       name: 'twitter:title',
