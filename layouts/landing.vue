@@ -31,7 +31,7 @@ useHead({
     },
     {
       property: 'og:title',
-      content: t('title-tag'),
+      content: 'Yags',
     },
     {
       property: 'og:description',
@@ -43,7 +43,7 @@ useHead({
     },
     {
       name: 'twitter:title',
-      content: t('title-tag'),
+      content: 'Yags',
     },
     {
       name: 'twitter:url',
@@ -77,7 +77,7 @@ useHead({
       >
         <LandingLogo />
         <!-- Disable until more pages available -->
-        <!-- <section
+         <section
           class="[grid-area:links] justify-self-center flex gap-fl-lg underline sm:decoration-transparent"
         >
           <LandingLink
@@ -87,7 +87,7 @@ useHead({
           >
             {{ link.name }}
           </LandingLink>
-        </section> -->
+        </section>
         <section class="flex gap-fl-xs">
      
        
