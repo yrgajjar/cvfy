@@ -7,7 +7,7 @@ const { setUpCvSettings } = useCvState()
 const route = useRoute()
 const { t, locale } = useI18n()
 
-const href = `https://cvfy.xyz${route.path}`
+const href = `https://me.yags.in${route.path}`
 
 onMounted(() => {
   setUpCvSettings()
