@@ -12,7 +12,7 @@ const localePath = useLocalePath()
       <span
         class="text-transparent bg-gradient-to-br from-violet-800 to-fuchsia-700 bg-clip-text hover:opacity-80"
       >
-        Yags CV Builder
+        YagsCV
       </span>
     </NuxtLink>
   </h1>
